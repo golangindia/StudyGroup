@@ -1,7 +1,9 @@
 # Upcoming: StudyGroup Session 1
 
 **Date: 20th September 2018**
+
 **Time: 21:00 IST**
+
 **Link:** Hangout: [http://bit.ly/gostudygroup](http://bit.ly/gostudygroup)
 
 **Agenda:**
