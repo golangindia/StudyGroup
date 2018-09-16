@@ -38,9 +38,11 @@ Language(s) for communication for sessions is pre-decided. All communication dur
 
 #### Rule 5 : Intellectual Property
 
-DO NOT present content that's proprietary. If you are presenting content based on something that you do at work, PLEASE VERIFY AND CONFIRM that you are not in breach of any Intellectual Property agreements you might have signed, unless you have clearance in the form of specific WRITTEN consent from your company's LEGAL team for the EXACT content that you choose to present. If you are in doubt, then you MUST NOT present. It is OK to postpone or cancel a topic or session if you discover that it may breach IP (even without going into the details, that may be IP governed). So, we suggest that you check this FIRST, before you even begin any other work.
+DO NOT present content that's proprietary. The StudyGroups will only cater to content that's already open-source. You must provide links to the open-source content in your proposal. You must only present or work on the content that you have proposed for; during the session. DO NOT discuss how any of the open-source content gets used in your organization, provide stats, facts, learning based on usage etc.; that might be considered Intellectual Property not belonging to you.
 
-Rules governing IP and its breach are the SOLE RESPONSIBILITY of the participant(s) who are privy to the Intellectual Property. Nobody else (organizers, participants or otherwise) will be held responsible at any stage for any act.
+If you plan to propose on any such content, PLEASE VERIFY AND CONFIRM that you are not in breach of any Intellectual Property agreements you might have signed, unless you have clearance in the form of specific WRITTEN consent from your organization's LEGAL team for the EXACT content that you choose to present. If you are in doubt, then you MUST NOT propose. So, we suggest that you check this FIRST, before you even begin with your proposal.
+
+Rules governing IP and its breach are the SOLE RESPONSIBILITY of the participant(s) who are privy to the Intellectual Property. Nobody else shall be held responsible.
 
 
 ## Guidelines
