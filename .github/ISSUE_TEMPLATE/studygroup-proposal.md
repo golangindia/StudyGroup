@@ -15,8 +15,8 @@ Refer to the [Proposals](https://github.com/golangindia/StudyGroup/blob/master/P
 Example:
 Intermediate: Talk: Ways to do RPC in Golang
 ```
-1. Add the label `proposal` to this issue.
-1. Remove all these notes, and the horizontal line below indicated by `----`. Retain rest of the content in the body starting with `### Type:`
+2. Add the label `proposal` to this issue.
+3. Remove all the notes you've read till here including the horizontal line below indicated by `----`. Retain rest of the content in the body starting with `### Type:`
 
 ----
 
