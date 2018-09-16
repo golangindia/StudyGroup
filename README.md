@@ -10,6 +10,11 @@ The language for communication will be English.
 
 All participants MUST adhere to the [Go Community Code of Conduct](https://golang.org/conduct). The GolangIndia StudyGroup requires participants to additionally adhere to [StudyGroup Code of Conduct & Guidelines](STUDYGROUP_COC.md).
 
+## Information
+**Where**: http://bit.ly/gostudygroup
+
+**When**: Bimonthly, time 9 PM IST. Date will be posted along with the meetup agenda. 
+
 ## Upcoming Session
 
 **Date: 20th September 2018**
