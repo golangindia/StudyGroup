@@ -27,7 +27,7 @@ The language for communication will be English.
 
 All participants MUST adhere to the [Go Community Code of Conduct](https://golang.org/conduct).
 
-Additionally, the GolangIndia StudyGroup requires participants to adhere to [StudyGroup Guidelines](GUIDELINES.md).
+Additionally, the GolangIndia StudyGroup requires participants to adhere to [StudyGroup Rules & Guidelines](RULES_AND_GUIDELINES.md).
 
 ## Schedule
 
