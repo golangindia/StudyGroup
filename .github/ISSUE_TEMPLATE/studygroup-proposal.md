@@ -4,6 +4,22 @@ about: This is a template for submitting proposals to the StudyGroup.
 
 ---
 
+Refer to the [Proposals](https://github.com/golangindia/StudyGroup/blob/master/PROPOSALS.md) page for additional help.
+
+# Steps:
+
+1. Set the `title` of your issue as follows
+```
+<Level>: <Format>: <YourTitle>
+
+Example:
+Intermediate: Talk: Ways to do RPC in Golang
+```
+1. Add the label `proposal` to this issue.
+1. Remove all these notes, and the horizontal line below indicated by `----`. Retain rest of the content in the body starting with `### Type:`
+
+----
+
 ### Type: [Talk|Demo|Mob-Review|...] pick one or more, with a '+' joining them
 (optional) Describe further if required, on exactly what you'd be doing.
 
