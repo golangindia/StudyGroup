@@ -1,3 +1,22 @@
+# Upcoming: StudyGroup Session 1
+
+**Date: 20th September 2018**
+
+**Time: 21:00 IST**
+
+**Link:** Hangout: [http://bit.ly/gostudygroup](http://bit.ly/gostudygroup)
+
+**Agenda:**
+
+1. [Goditor](https://github.com/ankur-anand/goditor): Text Editor in Golang by [Ankur Anand](https://github.com/ankur-anand), Bangalore (25 minutes)
+1. [gobudgetsms](https://github.com/souvikhaldar/gobudgetsms): Library around the Budget SMS API by [Souvik Haldar](https://github.com/souvikhaldar), Kolkata (25 minutes)
+
+### Past Sessions
+
+Past sessions are available [here](PAST_SESSIONS.md).
+
+----
+
 # The GolangIndia StudyGroup
 
 A StudyGroup is a web-conference session where Gophers (members of the Go community) can discuss, learn and present content. The aim of the web-based session is to allow pan-geographic participation, while also allowing for more cohesive discussions around the presented content.
@@ -8,35 +27,16 @@ The language for communication will be English.
 
 ## Code of Conduct
 
-All participants MUST adhere to the [Go Community Code of Conduct](https://golang.org/conduct). The GolangIndia StudyGroup requires participants to additionally adhere to [StudyGroup Code of Conduct & Guidelines](STUDYGROUP_COC.md).
+All participants MUST adhere to the [Go Community Code of Conduct](https://golang.org/conduct).
 
-## Information
-**Where**: http://bit.ly/gostudygroup
+Additionally, the GolangIndia StudyGroup requires participants to adhere to [StudyGroup Rules & Guidelines](RULES_AND_GUIDELINES.md).
 
-**When**: Bimonthly, 1st and 3rd wednesday, 9 PM IST
+## Schedule
 
-If any changes dates will be posted along with the meetup agenda. 
+The default schedule for the StudyGroup is **1st and 3rd Wednesday of each month at 21:00 IST**
 
-## Session 1
+If there is any deviation for an upcoming session from what's mentioned above, that info will be prominently indicated in the StudyGroup Session details at the top of this page.
 
-**Date: 20th September 2018**
-**Time: 21:00 IST**
-**Link:** link-placeholder
+## Proposals
 
-**Agenda:**
-
-1. [Goditor](https://github.com/ankur-anand/goditor): Text Editor in Golang by [Ankur Anand](https://github.com/ankur-anand), Bangalore (25 minutes)
-1. [gobudgetsms](https://github.com/souvikhaldar/gobudgetsms): Library around the Budget SMS API by [Souvik Haldar](https://github.com/souvikhaldar), Kolkata (25 minutes)
-
-Past sessions are available [here](PAST_SESSIONS.md).
-
-## Spekers
-- To propose a talk please create a PR to [proposals.md](./proposals.md), with the mentioned format
-
-## Session Formats
-
-TBD
-
-## Proposal Workflow
-
-TBD
+The [Proposals](PROPOSALS.md) page has details on the formats in which you can propose a study session and how you should go about submitting one.
