@@ -13,9 +13,11 @@ All participants MUST adhere to the [Go Community Code of Conduct](https://golan
 ## Information
 **Where**: http://bit.ly/gostudygroup
 
-**When**: Bimonthly, time 9 PM IST. Date will be posted along with the meetup agenda. 
+**When**: Bimonthly, 1st and 3rd wednesday, 9 PM IST
 
-## Upcoming Session
+If any changes dates will be posted along with the meetup agenda. 
+
+## Session 1
 
 **Date: 20th September 2018**
 **Time: 21:00 IST**
@@ -27,6 +29,9 @@ All participants MUST adhere to the [Go Community Code of Conduct](https://golan
 1. [gobudgetsms](https://github.com/souvikhaldar/gobudgetsms): Library around the Budget SMS API by [Souvik Haldar](https://github.com/souvikhaldar), Kolkata (25 minutes)
 
 Past sessions are available [here](PAST_SESSIONS.md).
+
+## Spekers
+- To propose a talk please create a PR to [proposals.md](./proposals.md), with the mentioned format
 
 ## Session Formats
 
