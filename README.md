@@ -8,7 +8,7 @@
 
 **Agenda:**
 
-1. [Goditor](https://github.com/ankur-anand/goditor): Text Editor in Golang by [Ankur Anand](https://github.com/ankur-anand), Bangalore (25 minutes)
+1. [Proposal](https://github.com/golangindia/StudyGroup/issues/6) -- [Goditor](https://github.com/ankur-anand/goditor): Text Editor in Golang by [Ankur Anand](https://github.com/ankur-anand), Bangalore (20 minutes)
 1. [gobudgetsms](https://github.com/souvikhaldar/gobudgetsms): Library around the Budget SMS API by [Souvik Haldar](https://github.com/souvikhaldar), Kolkata (25 minutes)
 
 ### Past Sessions
