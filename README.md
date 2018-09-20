@@ -8,8 +8,8 @@
 
 **Agenda:**
 
-1. [Proposal](https://github.com/golangindia/StudyGroup/issues/6) -- [Goditor](https://github.com/ankur-anand/goditor): Text Editor in Golang by [Ankur Anand](https://github.com/ankur-anand), Bangalore (20 minutes)
-1. [gobudgetsms](https://github.com/souvikhaldar/gobudgetsms): Library around the Budget SMS API by [Souvik Haldar](https://github.com/souvikhaldar), Kolkata (25 minutes)
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/6)\] -- [Goditor](https://github.com/ankur-anand/goditor): Text Editor in Golang by [Ankur Anand](https://github.com/ankur-anand), Bangalore (20 minutes)
+1. ~~[gobudgetsms](https://github.com/souvikhaldar/gobudgetsms): Library around the Budget SMS API by [Souvik Haldar](https://github.com/souvikhaldar), Kolkata (25 minutes)~~ This talk has been postponed to the next StudyGroup session as Souvik is ill. This slot is open for new proposals. If you wish to present, please submit your proposal at the earliest.
 
 ### Past Sessions
 
