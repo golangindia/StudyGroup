@@ -1,4 +1,4 @@
-# Proposals
+# Proposals & RFPs (Request for Proposals)
 
 ## Formats
 
@@ -24,23 +24,36 @@ Each level describes an general entry criteria for the indenteded audience.
 
 ## How to submit a proposal
 
-To submit a proposal, open an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) and choose `StudyGroup Proposal` as the template.
-
-**Apply the label `proposal` to your issue.**
+To submit a proposal, open an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) and choose `StudyGroup Proposal` as the template. The template also explains the details that you must fill in.
 
 ### Title
 
 The title of the proposal must follow the format:
 ```
-<Level>: <Format>: <YourTitle>
+Proposal: <Level>: <Format>: <YourTitle>
 
 Example:
-Intermediate: Talk: Ways to do RPC in Golang
+Proposal: Intermediate: Talk: Ways to do RPC in Golang
 ```
 
-### Content
+# Request for Proposal
 
-The `StudyGroup Proposal` template contains the description of what should go into each field in the template.
-Replace that content with your own.
+The Request for Proposal (RFP) is a system where you, as a participant can express interest in learning any aspect of Golang, or something from its ecosystem.
 
-FYI: [Proposal No.1](https://github.com/golangindia/StudyGroup/issues/1) is an example.
+By floating your RFP in the community, you may find like-minded individuals who are also interested in the same topic(s). They may either provide you with more reference material, or may join you in the quest for a `proposal` by upvoting your RFP.
+
+As a community, we hope to find individuals who have expertise in the RFP topics, who may make a proposal to address your request.
+
+## How to submit a Request for Proposal (RFP)
+
+To submit a RFP, open an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) and choose `StudyGroup - Request for Proposal` as the template. The template also explains the details that you must fill in.
+
+### Title
+
+The title of the RFP must follow the format:
+```
+RFP: <Level>: <Format>: <YourTitle>
+
+Example:
+RFP: Intermediate: Any: Interested in a deepdive on how `sync.RWMutex` works
+```
