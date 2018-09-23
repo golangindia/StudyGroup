@@ -43,3 +43,9 @@ If there is any deviation for an upcoming session from what's mentioned above, t
 ## Proposals
 
 The [Proposals](PROPOSALS.md) page has details on the formats in which you can propose a study session and how you should go about submitting one.
+
+## Request for Proposals
+
+If you are interested in learning about something in Golang, you can also submit a Request for Proposal (RFP). This helps identify areas where the community as a whole would like to learn about specific topics. This makes it easy for other individuals who have expertise in the topic to submit a proposal that might address this need.
+
+The [Proposals](PROPOSALS.md) page also has information on how to submit RFPs.
