@@ -49,3 +49,7 @@ The [Proposals](PROPOSALS.md) page has details on the formats in which you can p
 If you are interested in learning about something in Golang, you can also submit a Request for Proposal (RFP). This helps identify areas where the community as a whole would like to learn about specific topics. This makes it easy for other individuals who have expertise in the topic to submit a proposal that might address this need.
 
 The [Proposals](PROPOSALS.md) page also has information on how to submit RFPs.
+
+## Questions, Feedback & Suggestions
+
+If you'd like to volunteer or engage with existing volunteers who run StudyGroup-India on any aspect that generally concerns the StudyGroup, please consider submitting an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) using the template `Questions, Feedback & Suggestions`. You can find an official list of maintainers in the [MAINTAINERS](MAINTAINERS) file, in case you wish to tag them in your communication. Please ensure that all you communication in this regard stays within the StudyGroup issue.
