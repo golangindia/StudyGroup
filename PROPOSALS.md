@@ -24,7 +24,7 @@ Each level describes an general entry criteria for the indenteded audience.
 
 ## How to submit a proposal
 
-To submit a proposal, open an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) and choose `StudyGroup Proposal` as the template. The template also explains the details that you must fill in.
+To submit a proposal, open an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) and choose `StudyGroup - Proposal` as the template. The template also explains the details that you must fill in.
 
 ### Title
 
