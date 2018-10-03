@@ -1,10 +1,21 @@
-# Upcoming: StudyGroup Session 2 - Date: To be announced.
+# Upcoming: StudyGroup Session 2 on 04th Oct 2018
 
 **Link:** Hangout: [http://bit.ly/gostudygroup](http://bit.ly/gostudygroup)
 
-Awaiting new proposals.
+## StudyGroup Session 1 - Date: 04th Oct 2018 - 20:30 IST
 
-## Previous: StudyGroup Session 1 - Date: 20th Sep 2018 - 21:00 IST
+**Video:** <Yet to publish>
+
+**Agenda:**
+
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/9)\] -- Introduction to gRPC [Dinesh Kumar](https://github.com/devdinu), Bangalore (35 minutes)
+2. [Soup](https://github.com/anaskhan96/soup) -- Web Scraper in Go, similar to BeautifulSoup, will explore the internals [Gaurav Agarwal](https://github.com/gauravagarwalr), Chennai (35 minutes)
+
+Also awaiting new proposals.
+
+### Past Sessions
+
+## StudyGroup Session 1 - Date: 20th Sep 2018 - 21:00 IST
 
 **Video:** [here](https://www.youtube.com/watch?v=v9UpXthxrRY)
 
@@ -14,7 +25,6 @@ Awaiting new proposals.
 1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/6)\] -- [Goditor](https://github.com/ankur-anand/goditor): Text Editor in Golang by [Ankur Anand](https://github.com/ankur-anand), Bangalore (20 minutes)
 1. ~~[gobudgetsms](https://github.com/souvikhaldar/gobudgetsms): Library around the Budget SMS API by [Souvik Haldar](https://github.com/souvikhaldar), Kolkata (25 minutes)~~ This talk has been postponed to a future session.
 
-### Past Sessions
 
 Past sessions are available [here](PAST_SESSIONS.md).
 
