@@ -2,9 +2,7 @@
 
 **Link:** Hangout: [http://bit.ly/gostudygroup](http://bit.ly/gostudygroup)
 
-## StudyGroup Session 1 - Date: 04th Oct 2018 - 20:30 IST
-
-**Video:** <Yet to publish>
+## StudyGroup Session 2 - Date: 04th Oct 2018 - 20:30 IST
 
 **Agenda:**
 
