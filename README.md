@@ -1,19 +1,22 @@
-# Upcoming: StudyGroup Session 2 on 04th Oct 2018
+# Upcoming: StudyGroup Session 3 on 18th Oct 2018
 
-**Link:** Hangout: [http://bit.ly/gostudygroup](http://bit.ly/gostudygroup)
+**Link:** Will be updated soon
 
-## StudyGroup Session 2 - Date: 04th Oct 2018 - 20:30 IST
+**Agenda:**
+
+## Past Sessions
+
+### StudyGroup Session 2 - Date: 04th Oct 2018 - 20:30 IST
+
+1. [Soup](https://github.com/anaskhan96/soup) -- Web Scraper in Go, similar to BeautifulSoup, will explore the internals [Gaurav Agarwal](https://github.com/gauravagarwalr), Chennai (35 minutes)
 
 **Agenda:**
 
 1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/9)\] -- Introduction to gRPC [Dinesh Kumar](https://github.com/devdinu), Bangalore (35 minutes)
-2. [Soup](https://github.com/anaskhan96/soup) -- Web Scraper in Go, similar to BeautifulSoup, will explore the internals [Gaurav Agarwal](https://github.com/gauravagarwalr), Chennai (35 minutes)
 
 Also awaiting new proposals.
 
-### Past Sessions
-
-## StudyGroup Session 1 - Date: 20th Sep 2018 - 21:00 IST
+### StudyGroup Session 1 - Date: 20th Sep 2018 - 21:00 IST
 
 **Video:** [here](https://www.youtube.com/watch?v=v9UpXthxrRY)
 
@@ -44,7 +47,7 @@ Additionally, the GolangIndia StudyGroup requires participants to adhere to [Stu
 
 ## Schedule
 
-The default schedule for the StudyGroup is **1st and 3rd Wednesday of each month at 21:00 IST**
+The default schedule for the StudyGroup is **1st and 3rd Thursday of each month at 20:30 IST**
 
 If there is any deviation for an upcoming session from what's mentioned above, that info will be prominently indicated in the StudyGroup Session details at the top of this page.
 
