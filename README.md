@@ -1,33 +1,27 @@
-# Upcoming: StudyGroup Session 3 on 18th Oct 2018
+### Sticky
+
+* We are [`looking for volunteers`](https://github.com/golangindia/StudyGroup/issues/10)
+* We have moved the session timeslot to `20:30 IST` from `21:00 IST`. Please provide your feedback [`here`](https://github.com/golangindia/StudyGroup/issues/8)
+* We are looking for [`proposals and RFPs`](https://github.com/golangindia/StudyGroup/blob/master/PROPOSALS.md).
+* We are looking for some one who could share/sponsor a [`Zoom Pro`](https://zoom.us/pricing) account to conduct online StudyGroup sessions.
+
+# Upcoming: StudyGroup Session 3 - Date: 18th Oct 2018 - 20:30 IST
 
 **Link:** Will be updated soon
 
 **Agenda:**
 
-## Past Sessions
-
-### StudyGroup Session 2 - Date: 04th Oct 2018 - 20:30 IST
-
 1. [Soup](https://github.com/anaskhan96/soup) -- Web Scraper in Go, similar to BeautifulSoup, will explore the internals [Gaurav Agarwal](https://github.com/gauravagarwalr), Chennai (35 minutes)
+
+# Past Sessions
+
+## StudyGroup Session 2 - Date: 04th Oct 2018 - 20:30 IST
 
 **Agenda:**
 
 1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/9)\] -- Introduction to gRPC [Dinesh Kumar](https://github.com/devdinu), Bangalore (35 minutes)
 
-Also awaiting new proposals.
-
-### StudyGroup Session 1 - Date: 20th Sep 2018 - 21:00 IST
-
-**Video:** [here](https://www.youtube.com/watch?v=v9UpXthxrRY)
-
-**Agenda:**
-
-1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/7)\] -- Flags, and Command by [Dinesh Kumar](https://github.com/devdinu), Bangalore (45 minutes)
-1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/6)\] -- [Goditor](https://github.com/ankur-anand/goditor): Text Editor in Golang by [Ankur Anand](https://github.com/ankur-anand), Bangalore (20 minutes)
-1. ~~[gobudgetsms](https://github.com/souvikhaldar/gobudgetsms): Library around the Budget SMS API by [Souvik Haldar](https://github.com/souvikhaldar), Kolkata (25 minutes)~~ This talk has been postponed to a future session.
-
-
-Past sessions are available [here](PAST_SESSIONS.md).
+**All past sessions are available [here](PAST_SESSIONS.md)**
 
 ----
 
