@@ -11,7 +11,7 @@
 
 **Agenda:**
 
-1. [Soup](https://github.com/anaskhan96/soup) -- Web Scraper in Go, similar to BeautifulSoup, will explore the internals [Gaurav Agarwal](https://github.com/gauravagarwalr), Chennai (35 minutes)
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/11)\] -- HandsOn: Web Scraper in Go, similar to BeautifulSoup, will explore the internals -- by [Gaurav Agarwal](https://github.com/algogrit)
 
 # Past Sessions
 
@@ -19,7 +19,8 @@
 
 **Agenda:**
 
-1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/9)\] -- Introduction to gRPC [Dinesh Kumar](https://github.com/devdinu), Bangalore (35 minutes)
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/9)\] -- Introduction to gRPC -- by [Dinesh Kumar](https://github.com/devdinu), Bangalore (35 minutes)
+2. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/11)\] -- Web Scraper in Go, similar to BeautifulSoup, will explore the internals -- by [Gaurav Agarwal](https://github.com/algogrit) -- (to be continued in Session 3)
 
 **All past sessions are available [here](PAST_SESSIONS.md)**
 
@@ -32,6 +33,8 @@ A StudyGroup is a web-conference session where Gophers (members of the Go commun
 With the aim of wider participation from members in India, the StudyGroup's schedule specifically caters to timeslots chosen on [IST](https://en.wikipedia.org/wiki/Indian_Standard_Time). However, all sessions of the StudyGroup are open to participation by anyone worldwide.
 
 The language for communication will be English.
+
+Session videos from the GolangIndia StudyGroup are available [here](https://www.youtube.com/channel/UCJ3tfDfrAZYtuIclbgETFyQ).
 
 ## Code of Conduct
 
@@ -58,3 +61,17 @@ The [Proposals](PROPOSALS.md) page also has information on how to submit RFPs.
 ## Questions, Feedback & Suggestions
 
 If you'd like to volunteer or engage with existing volunteers who run StudyGroup-India on any aspect that generally concerns the StudyGroup, please consider submitting an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) using the template `Questions, Feedback & Suggestions`. You can find an official list of maintainers in the [MAINTAINERS](MAINTAINERS) file, in case you wish to tag them in your communication. Please ensure that all you communication in this regard stays within the StudyGroup issue.
+
+## Inspiration
+
+The GolangIndia StudyGroup has been inspired by the [`Go Study Group`](https://gophersource.com/study-group/) started by [Aaron Schlesinger](https://arschles.com/), which in the interest of clarity is now called the North America chapter.
+
+[We](MAINTAINERS) would like to thank Aaron and [Carolyn Van Slyck](https://carolynvanslyck.com/) for their support and encouragement.
+
+## Follow us on ...
+
+Gophers Slack: Channels `#gostudygroup-india` and `#gostudygroup` (North America)
+
+[`GolangIndia StudyGroup on Youtube`](https://www.youtube.com/channel/UCJ3tfDfrAZYtuIclbgETFyQ)
+
+[`Twitter`](https://twitter.com/gostudygroup) (global)
