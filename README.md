@@ -17,6 +17,8 @@
 
 ## StudyGroup Session 2 - Date: 04th Oct 2018 - 20:30 IST
 
+**Video:** [here](https://www.youtube.com/watch?v=agQSAmZrKqo)
+
 **Agenda:**
 
 1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/9)\] -- Introduction to gRPC -- by [Dinesh Kumar](https://github.com/devdinu), Bangalore (35 minutes)
