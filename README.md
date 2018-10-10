@@ -5,7 +5,7 @@
 * We are looking for [`proposals and RFPs`](https://github.com/golangindia/StudyGroup/blob/master/PROPOSALS.md).
 * We are looking for some one who could share/sponsor a [`Zoom Pro`](https://zoom.us/pricing) account to conduct online StudyGroup sessions.
 
-# Upcoming: StudyGroup Session 3 - Date: 18th Oct 2018 - 20:30 IST
+# Upcoming: StudyGroup Session 3 - Date: ~~18th~~ 25th Oct 2018 - 20:30 IST -- (Postponed due to [Dusshera](https://en.wikipedia.org/wiki/Vijayadashami))
 
 **Link:** Will be updated soon
 
