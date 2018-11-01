@@ -22,7 +22,7 @@
 
 **Agenda:**
 
-1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/12)\] -- Beginner: Short Talk: Building a Go library over BudgetSMS API -- by [Souvik Haldar](https://github.com/souvikhaldar), Kolkata, (15 minutes)
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/12)\] -- Beginner: Short Talk: Building a Go library over BudgetSMS API ([gobudgetsms](https://github.com/souvikhaldar/gobudgetsms)) -- by [Souvik Haldar](https://github.com/souvikhaldar), Kolkata, (15 minutes)
 2. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/13)\] -- Intermediate: Talk: An investigative walk through of Go's Channels -- by [Gaurav Agarwal](https://github.com/algogrit), Chennai, (35 minutes)
 
 **All past sessions are available [here](PAST_SESSIONS.md)**
