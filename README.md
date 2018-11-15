@@ -7,7 +7,7 @@
 
 # Upcoming: StudyGroup Session 4 - Date: 15th Nov 2018 - 20:30 IST
 
-**Link:** Will be updated soon
+**Link:** [https://algogrit.daily.co/gostudygroupindia](https://algogrit.daily.co/gostudygroupindia)
 
 **Agenda:**
 
