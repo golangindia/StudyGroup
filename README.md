@@ -7,7 +7,7 @@
 
 # Upcoming: StudyGroup Session 4 - Date: 15th Nov 2018 - 20:30 IST
 
-**Link:** [https://zoom.us/j/8274657449](https://zoom.us/j/8274657449)
+**Link:** [https://rebrand.ly/gostudygroup](https://rebrand.ly/gostudygroup)
 
 **Agenda:**
 
