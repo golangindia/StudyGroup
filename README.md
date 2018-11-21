@@ -5,25 +5,23 @@
 * We are looking for [`proposals and RFPs`](https://github.com/golangindia/StudyGroup/blob/master/PROPOSALS.md).
 * We are looking for some one who could share/sponsor a [`Zoom Pro`](https://zoom.us/pricing) account to conduct online StudyGroup sessions.
 
-# Upcoming: StudyGroup Session 4 - Date: 15th Nov 2018 - 20:30 IST
+# Upcoming: StudyGroup Session 5 - Date: 6th Dec 2018 - 20:30 IST
 
 **Link:** [https://rebrand.ly/gostudygroup](https://rebrand.ly/gostudygroup)
 
 **Agenda:**
 
-1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/11)\] -- HandsOn: Web Scraper in Go, similar to BeautifulSoup, will explore the internals -- by [Gaurav Agarwal](https://github.com/algogrit)
-2. + awaiting more proposals
+TBD
 
 # Past Sessions
 
-## StudyGroup Session 3 - Date: 25th Oct 2018 - 20:30 IST
+## StudyGroup Session 4 - Date: 15th Nov 2018 - 20:30 IST
 
-**Video:** [here](https://www.youtube.com/watch?v=jBvA3Q2zkHI)
+**Video:** [here](https://www.youtube.com/watch?v=k2FLlrcvRY0)
 
 **Agenda:**
 
-1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/12)\] -- Beginner: Short Talk: Building a Go library over BudgetSMS API ([gobudgetsms](https://github.com/souvikhaldar/gobudgetsms)) -- by [Souvik Haldar](https://github.com/souvikhaldar), Kolkata, (15 minutes)
-2. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/13)\] -- Intermediate: Talk: An investigative walk through of Go's Channels -- by [Gaurav Agarwal](https://github.com/algogrit), Chennai, (35 minutes)
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/11)\] -- HandsOn: Web Scraper in Go, similar to BeautifulSoup, will explore the internals -- by [Gaurav Agarwal](https://github.com/algogrit)
 
 **All past sessions are available [here](PAST_SESSIONS.md)**
 
