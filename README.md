@@ -11,7 +11,8 @@
 
 **Agenda:**
 
-TBD
+[Go Type System](https://github.com/golangindia/StudyGroup/issues/14) by [Ankur Anand](https://ankuranand.com/), (45 minutes)
+
 
 # Past Sessions
 
