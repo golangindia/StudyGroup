@@ -1,5 +1,15 @@
 # Past Sessions
 
+
+## StudyGroup Session 5 - Date: 06th Dec 2018 - 20:30 IST
+
+**Video:** [here](https://www.youtube.com/watch?v=N5nqlleRWF4)
+
+**Agenda:**
+
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/14)\] -- Talk: Type System in Go -- by [Ankur Anand](https://github.com/ankur-anand)
+
+
 ## StudyGroup Session 4 - Date: 15th Nov 2018 - 20:30 IST
 
 **Video:** [here](https://www.youtube.com/watch?v=k2FLlrcvRY0)
