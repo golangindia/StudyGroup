@@ -5,24 +5,22 @@
 * We are looking for [`proposals and RFPs`](https://github.com/golangindia/StudyGroup/blob/master/PROPOSALS.md).
 * We are looking for some one who could share/sponsor a [`Zoom Pro`](https://zoom.us/pricing) account to conduct online StudyGroup sessions.
 
-# Upcoming: StudyGroup Session 5 - Date: 6th Dec 2018 - 20:30 IST
+# Upcoming: StudyGroup Session 6 - Date: 20th Dec 2018 - 20:30 IST
 
 **Link:** [https://rebrand.ly/gostudygroup](https://rebrand.ly/gostudygroup)
 
-**Agenda:**
-
-[Go Type System](https://github.com/golangindia/StudyGroup/issues/14) by [Ankur Anand](https://ankuranand.com/), (45 minutes)
+To be announced. Find info [here](PROPOSALS.md) if you'd like to propose a talk.
 
 
 # Past Sessions
 
-## StudyGroup Session 4 - Date: 15th Nov 2018 - 20:30 IST
+## StudyGroup Session 5 - Date: 06th Dec 2018 - 20:30 IST
 
-**Video:** [here](https://www.youtube.com/watch?v=k2FLlrcvRY0)
+**Video:** [here](https://www.youtube.com/watch?v=N5nqlleRWF4)
 
 **Agenda:**
 
-1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/11)\] -- HandsOn: Web Scraper in Go, similar to BeautifulSoup, will explore the internals -- by [Gaurav Agarwal](https://github.com/algogrit)
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/14)\] -- Talk: Type System in Go -- by [Ankur Anand](https://github.com/ankur-anand)
 
 **All past sessions are available [here](PAST_SESSIONS.md)**
 
