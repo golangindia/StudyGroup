@@ -16,7 +16,7 @@ To be announced. Find info [here](PROPOSALS.md) if you'd like to propose a talk.
 
 ## StudyGroup Session 5 - Date: 06th Dec 2018 - 20:30 IST
 
-**Video:** [here](https://www.youtube.com/watch?v=N5nqlleRWF4)
+**Video:** [here](https://www.youtube.com/watch?v=CHKrJyMf36c)
 
 **Agenda:**
 
