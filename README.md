@@ -7,9 +7,11 @@
 
 # Upcoming: StudyGroup Session 6 - Date: 20th Dec 2018 - 20:30 IST
 
-**Link:** [https://rebrand.ly/gostudygroup](https://rebrand.ly/gostudygroup)
+**Link:** [here](https://zoom.us/j/732810174)
 
-To be announced. Find info [here](PROPOSALS.md) if you'd like to propose a talk.
+**Agenda:**
+
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/15)\] -- Beginner: Talk: Testing in Go -- by [Praveen Shirali](https://github.com/pshirali)
 
 
 # Past Sessions
