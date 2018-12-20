@@ -7,7 +7,7 @@
 
 # Upcoming: StudyGroup Session 6 - Date: 20th Dec 2018 - 20:30 IST
 
-**Link:** [here](https://zoom.us/j/732810174)
+**Link:** [https://rebrand.ly/go-studygroup](https://rebrand.ly/go-studygroup)
 
 **Agenda:**
 
