@@ -1,5 +1,13 @@
 # Past Sessions
 
+## StudyGroup Session 6 - Date: 20th Dec 2018 - 20:30 IST
+
+**Video:** [here](https://www.youtube.com/watch?v=5VlvRkCjOrc)
+
+**Agenda:**
+
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/15)\] -- Beginner: Talk: Testing in Go -- by [Praveen Shirali](https://github.com/pshirali)
+
 
 ## StudyGroup Session 5 - Date: 06th Dec 2018 - 20:30 IST
 
