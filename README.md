@@ -5,24 +5,23 @@
 * We are looking for [`proposals and RFPs`](https://github.com/golangindia/StudyGroup/blob/master/PROPOSALS.md).
 * We are looking for some one who could share/sponsor a [`Zoom Pro`](https://zoom.us/pricing) account to conduct online StudyGroup sessions.
 
-# Upcoming: StudyGroup Session 6 - Date: 20th Dec 2018 - 20:30 IST
+# Upcoming: StudyGroup Session 7 - Date: 03rd Jan 2019 - 20:30 IST
 
 **Link:** [https://rebrand.ly/go-studygroup](https://rebrand.ly/go-studygroup)
 
 **Agenda:**
 
-1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/15)\] -- Beginner: Talk: Testing in Go -- by [Praveen Shirali](https://github.com/pshirali)
-
+TBD. Awaiting proposals.
 
 # Past Sessions
 
-## StudyGroup Session 5 - Date: 06th Dec 2018 - 20:30 IST
+# StudyGroup Session 6 - Date: 20th Dec 2018 - 20:30 IST
 
-**Video:** [here](https://www.youtube.com/watch?v=CHKrJyMf36c)
+**Video:** [here](https://www.youtube.com/watch?v=5VlvRkCjOrc)
 
 **Agenda:**
 
-1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/14)\] -- Talk: Type System in Go -- by [Ankur Anand](https://github.com/ankur-anand)
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/15)\] -- Beginner: Talk: Testing in Go -- by [Praveen Shirali](https://github.com/pshirali)
 
 **All past sessions are available [here](PAST_SESSIONS.md)**
 
