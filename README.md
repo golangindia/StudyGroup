@@ -7,7 +7,7 @@
 
 # Upcoming: StudyGroup Session 7 - Date: 03rd Jan 2019 - 20:30 IST
 
-**Link:** [https://rebrand.ly/go-studygroup](https://rebrand.ly/go-studygroup)
+**Link:** [https://rebrand.ly/go-studygroup](https://zoom.us/j/2372860435)
 
 **Agenda:**
 
