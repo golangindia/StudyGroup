@@ -1,5 +1,15 @@
 # Past Sessions
 
+
+## StudyGroup Session 7 - Date: 03rd Jan 2019 - 20:30 IST
+
+**Video:** [here](https://www.youtube.com/watch?v=QZtOt9HwsSs)
+
+**Agenda:**
+
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/16)\] -- Beginner: Discussion: Package layout in Golang -- requested by [Souvik Haldar](https://github.com/souvikhaldar)
+
+
 ## StudyGroup Session 6 - Date: 20th Dec 2018 - 20:30 IST
 
 **Video:** [here](https://www.youtube.com/watch?v=5VlvRkCjOrc)
