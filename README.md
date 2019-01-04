@@ -1,27 +1,27 @@
-### Sticky
+# Meeting Link
 
-* We are [`looking for volunteers`](https://github.com/golangindia/StudyGroup/issues/10)
-* We have moved the session timeslot to `20:30 IST` from `21:00 IST`. Please provide your feedback [`here`](https://github.com/golangindia/StudyGroup/issues/8)
-* We are looking for [`proposals and RFPs`](https://github.com/golangindia/StudyGroup/blob/master/PROPOSALS.md).
-* We are looking for some one who could share/sponsor a [`Zoom Pro`](https://zoom.us/pricing) account to conduct online StudyGroup sessions.
+Permanent URL: [`https://rebrand.ly/go-studygroup`](https://rebrand.ly/go-studygroup)
 
-# Upcoming: StudyGroup Session 7 - Date: 03rd Jan 2019 - 20:30 IST
+The URL will redirect to the upcoming session over [Zoom](https://zoom.us). The zoom invite is typically updated on the date of the session. So, please checkback on the session date. If you find any issues, please raise them or follow latest updates on the `#gostudygroup-india` Gophers slack channel.
 
-**Link:** [https://rebrand.ly/go-studygroup](https://zoom.us/j/2372860435)
+
+# Upcoming: StudyGroup Session 8 - Date: 31st Jan 2019 - 20:30 IST
+
+### `The next session will be held on Jan 31st as GopherCon India 2019 is scheduled in the week of Jan 17th`
 
 **Agenda:**
 
-Group Discussion on project structuring based on [blog post](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1) and experiences.
+TBD
 
 # Past Sessions
 
-# StudyGroup Session 6 - Date: 20th Dec 2018 - 20:30 IST
+## StudyGroup Session 7 - Date: 03rd Jan 2019 - 20:30 IST
 
-**Video:** [here](https://www.youtube.com/watch?v=5VlvRkCjOrc)
+**Video:** [here](https://www.youtube.com/watch?v=QZtOt9HwsSs)
 
 **Agenda:**
 
-1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/15)\] -- Beginner: Talk: Testing in Go -- by [Praveen Shirali](https://github.com/pshirali)
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/16)\] -- Beginner: Discussion: Package layout in Golang -- requested by [Souvik Haldar](https://github.com/souvikhaldar)
 
 **All past sessions are available [here](PAST_SESSIONS.md)**
 
