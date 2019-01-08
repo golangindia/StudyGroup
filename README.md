@@ -5,7 +5,7 @@ Permanent URL: [`https://rebrand.ly/go-studygroup`](https://rebrand.ly/go-studyg
 The URL will redirect to the upcoming session over [Zoom](https://zoom.us). The zoom invite is typically updated on the date of the session. So, please checkback on the session date. If you find any issues, please raise them or follow latest updates on the `#gostudygroup-india` Gophers slack channel.
 
 
-# Upcoming: StudyGroup Session 8 - Date: 31st Jan 2019 - 20:30 IST
+# Upcoming: StudyGroup Session 8 - Date: 24th Jan 2019 - 20:30 IST
 
 ### `The next session will be held on Jan 31st as GopherCon India 2019 is scheduled in the week of Jan 17th`
 
