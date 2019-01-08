@@ -7,7 +7,7 @@ The URL will redirect to the upcoming session over [Zoom](https://zoom.us). The 
 
 # Upcoming: StudyGroup Session 8 - Date: 24th Jan 2019 - 20:30 IST
 
-### `The next session will be held on Jan 31st as GopherCon India 2019 is scheduled in the week of Jan 17th`
+### `>> The next session will be held on Jan 24th as GopherCon India 2019 is scheduled in the week of Jan 17th`
 
 **Agenda:**
 
