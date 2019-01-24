@@ -1,6 +1,6 @@
 # Meeting Link
 
-Permanent URL: [`https://rebrand.ly/go-studygroup`](https://rebrand.ly/go-studygroup)
+Permanent URL: [`https://rebrand.ly/gostudygroup`](https://rebrand.ly/gostudygroup)
 
 The URL will redirect to the upcoming session over [Zoom](https://zoom.us). The zoom invite is typically updated on the date of the session. So, please checkback on the session date. If you find any issues, please raise them or follow latest updates on the `#gostudygroup-india` Gophers slack channel.
 
@@ -11,7 +11,11 @@ The URL will redirect to the upcoming session over [Zoom](https://zoom.us). The 
 
 **Agenda:**
 
-TBD
+### Go Runtime - Session 1
+
+We'll be discuss basics of go runtime, This is the beginning of multi part series, we will be exploring in depth, code, and other parts than basics in later sessions by [Dinesh](https://github.com/devdinu)
+
+Its more of a disccussion, so if you've read articles / know more, you could share in the session.
 
 # Past Sessions
 
