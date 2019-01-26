@@ -1,5 +1,14 @@
 # Past Sessions
 
+## StudyGroup Session 8 - Date: 24th Jan 2019 - 20:30 IST
+
+**Video:** [here](https://www.youtube.com/watch?v=QZtOt9HwsSs)
+
+**Agenda:**
+
+### Go Runtime - Session 1
+
+We'll discuss basics of go runtime, This is the beginning of multi part series, we will be exploring in depth, code, and other parts than basics in later sessions by [Dinesh](https://github.com/devdinu)
 
 ## StudyGroup Session 7 - Date: 03rd Jan 2019 - 20:30 IST
 

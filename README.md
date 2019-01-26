@@ -4,24 +4,17 @@ Permanent URL: [`https://rebrand.ly/gostudygroup`](https://rebrand.ly/gostudygro
 
 The URL will redirect to the upcoming session over [Zoom](https://zoom.us). The zoom invite is typically updated on the date of the session. So, please checkback on the session date. If you find any issues, please raise them or follow latest updates on the `#gostudygroup-india` Gophers slack channel.
 
-
-# Upcoming: StudyGroup Session 8 - Date: 24th Jan 2019 - 20:30 IST
-
-### `>> The next session will be held on Jan 24th as GopherCon India 2019 is scheduled in the week of Jan 17th`
+# Upcoming: StudyGroup Session 9 - Date: 7th Feb 2019 - 20:30 IST
 
 **Agenda:**
 
-### Go Runtime - Session 1
-
-We'll be discuss basics of go runtime, This is the beginning of multi part series, we will be exploring in depth, code, and other parts than basics in later sessions by [Dinesh](https://github.com/devdinu)
-
-Its more of a disccussion, so if you've read articles / know more, you could share in the session.
+TBD
 
 # Past Sessions
 
-## StudyGroup Session 7 - Date: 03rd Jan 2019 - 20:30 IST
+## StudyGroup Session 8 - Date: 24th Jan 2019 - 20:30 IST
 
-**Video:** [here](https://www.youtube.com/watch?v=QZtOt9HwsSs)
+**Video:** [here](https://www.youtube.com/channel/UCJ3tfDfrAZYtuIclbgETFyQ?view_as=subscriber)
 
 **Agenda:**
 
