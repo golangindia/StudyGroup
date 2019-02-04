@@ -56,9 +56,14 @@ If you are interested in learning about something in Golang, you can also submit
 
 The [Proposals](PROPOSALS.md) page also has information on how to submit RFPs.
 
-## Questions, Feedback & Suggestions
+## Volunteering & Sponsorship
+* If you'd like to **[volunteer](volunteers.md)** or engage with existing volunteers who run StudyGroup-India on any aspect that generally concerns the StudyGroup, 
+* We are looking for **[sponsors](sponsors.md)** to join us to have better community reach and impact.
 
-If you'd like to volunteer or engage with existing volunteers who run StudyGroup-India on any aspect that generally concerns the StudyGroup, please consider submitting an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) using the template `Questions, Feedback & Suggestions`. You can find an official list of maintainers in the [MAINTAINERS](MAINTAINERS) file, in case you wish to tag them in your communication. Please ensure that all you communication in this regard stays within the StudyGroup issue.
+### Questions, Feedback & Suggestions
+please consider submitting an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) using the template `Questions, Feedback & Suggestions`, if you've any questsions, feedback or suggestions.
+
+You can find an official list of maintainers in the [MAINTAINERS](MAINTAINERS) file, in case you wish to tag them in your communication. Please ensure that all your communication in this regard stays within the StudyGroup issue.
 
 ## Inspiration
 
