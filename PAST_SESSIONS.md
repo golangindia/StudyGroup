@@ -2,7 +2,7 @@
 
 ## StudyGroup Session 8 - Date: 24th Jan 2019 - 20:30 IST
 
-**Video:** [here](https://www.youtube.com/watch?v=QZtOt9HwsSs)
+**Video:** [here](https://youtu.be/l1NnIAWUWoY)
 
 **Agenda:**
 

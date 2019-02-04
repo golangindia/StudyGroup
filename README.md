@@ -14,11 +14,11 @@ TBD
 
 ## StudyGroup Session 8 - Date: 24th Jan 2019 - 20:30 IST
 
-**Video:** [here](https://www.youtube.com/channel/UCJ3tfDfrAZYtuIclbgETFyQ?view_as=subscriber)
+**Video:** [here](https://youtu.be/l1NnIAWUWoY)
 
 **Agenda:**
 
-1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/16)\] -- Beginner: Discussion: Package layout in Golang -- requested by [Souvik Haldar](https://github.com/souvikhaldar)
+### Go Runtime - Session 1
 
 **All past sessions are available [here](PAST_SESSIONS.md)**
 
