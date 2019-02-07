@@ -4,11 +4,12 @@ Permanent URL: [`https://rebrand.ly/gostudygroup`](https://rebrand.ly/gostudygro
 
 The URL will redirect to the upcoming session over [Zoom](https://zoom.us). The zoom invite is typically updated on the date of the session. So, please checkback on the session date. If you find any issues, please raise them or follow latest updates on the `#gostudygroup-india` Gophers slack channel.
 
-# Upcoming: StudyGroup Session 9 - Date: 7th Feb 2019 - 20:30 IST
+# Upcoming: StudyGroup Session 9 - Date: ~~7th~~21st Feb 2019 - 20:30 IST
 
 **Agenda:**
 
-TBD
+The session on 7th Feb has been cancelled.
+Awaiting proposals for the session on Feb 21st 2019
 
 # Past Sessions
 
