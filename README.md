@@ -60,6 +60,10 @@ The [Proposals](PROPOSALS.md) page also has information on how to submit RFPs.
 * If you'd like to **[volunteer](volunteers.md)** or engage with existing volunteers who run StudyGroup-India on any aspect that generally concerns the StudyGroup, 
 * We are looking for **[sponsors](sponsors.md)** to join us to have better community reach and impact.
 
+### Our sponsors
+* Zoom premium account - [Go-jek](https://www.gojek.io/)
+* Feb 41st [Meetup](https://www.meetup.com/Golang-Bangalore/events/258671999/) Goodies - [Hotstar](https://tech.hotstar.com/)
+
 ### Questions, Feedback & Suggestions
 please consider submitting an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) using the template `Questions, Feedback & Suggestions`, if you've any questsions, feedback or suggestions.
 
