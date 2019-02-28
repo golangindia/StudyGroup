@@ -4,21 +4,22 @@ Permanent URL: [`https://rebrand.ly/gostudygroup`](https://rebrand.ly/gostudygro
 
 The URL will redirect to the upcoming session over [Zoom](https://zoom.us). The zoom invite is typically updated on the date of the session. So, please checkback on the session date. If you find any issues, please raise them or follow latest updates on the `#gostudygroup-india` Gophers slack channel.
 
-# Upcoming: StudyGroup Session 9 - Date: 21st Feb 2019 - 20:30 IST
+# Upcoming: Session 10 -- Date will be announced soon.
 
 **Agenda:**
-
-1. [[Proposal](https://github.com/golangindia/StudyGroup/issues/18)] -- Intermediate: Talk: Getting familiar with Go Memory Allocation -- by [Ankur Anand](https://github.com/ankur-anand)
+TBA
 
 # Past Sessions
 
-## StudyGroup Session 8 - Date: 24th Jan 2019 - 20:30 IST
+## Session 9 - Date: 21st Feb 2019 - 20:30 IST
 
-**Video:** [here](https://youtu.be/l1NnIAWUWoY)
+**Video:** [here](https://youtu.be/rRZy7ow6hcs)
 
 **Agenda:**
 
-### Go Runtime - Session 1
+### Go Runtime - Session 2
+
+1. \[Proposal\](https://github.com/golangindia/StudyGroup/issues/18) This talk provides a visual guide to Go's memory allocator. Session by [Ankur Anand](https://ankuranand.com)
 
 **All past sessions are available [here](PAST_SESSIONS.md)**
 
