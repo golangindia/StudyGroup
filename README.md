@@ -19,7 +19,7 @@ TBA
 
 ### Go Runtime - Session 2
 
-1. \[Proposal\](https://github.com/golangindia/StudyGroup/issues/18) This talk provides a visual guide to Go's memory allocator. Session by [Ankur Anand](https://ankuranand.com)
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/18)\] This talk provides a visual guide to Go's memory allocator. Session by [Ankur Anand](https://ankuranand.com)
 
 **All past sessions are available [here](PAST_SESSIONS.md)**
 
