@@ -4,10 +4,13 @@ Permanent URL: [`https://rebrand.ly/gostudygroup`](https://rebrand.ly/gostudygro
 
 The URL will redirect to the upcoming session over [Zoom](https://zoom.us). The zoom invite is typically updated on the date of the session. So, please checkback on the session date. If you find any issues, please raise them or follow latest updates on the `#gostudygroup-india` Gophers slack channel.
 
-# Upcoming: Session 10 -- Date will be announced soon.
+# Upcoming: Session 10 -- 07th Mar 2019 - 20:30 IST
+
+**Video:** TBD
 
 **Agenda:**
-TBA
+
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/19)\] Beginner: Talk: Introduction to WASM & its support in Go - by [Gaurav Agarwal](https://algogrit.com)
 
 # Past Sessions
 
