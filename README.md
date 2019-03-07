@@ -1,6 +1,6 @@
 # Meeting Link
 
-Permanent URL: [`https://rebrand.ly/gostudygroup`](https://rebrand.ly/gostudygroup)
+Permanent URL: [`https://zoom.us/j/659986096`](https://zoom.us/j/659986096)
 
 The URL will redirect to the upcoming session over [Zoom](https://zoom.us). The zoom invite is typically updated on the date of the session. So, please checkback on the session date. If you find any issues, please raise them or follow latest updates on the `#gostudygroup-india` Gophers slack channel.
 
