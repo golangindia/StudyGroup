@@ -1,8 +1,9 @@
-# Meeting Link
+# We've moved to Meetup.com
+## [`https://www.meetup.com/Go-Study-Group-India/`](https://www.meetup.com/Go-Study-Group-India/)
+We are phasing out managing GSGI using the repo here. Future events will be managed on `Meetup.com`.
+Content from all past sessions will still be available here.
 
-Permanent URL: [`https://zoom.us/j/659986096`](https://zoom.us/j/659986096)
-
-The URL will redirect to the upcoming session over [Zoom](https://zoom.us). The zoom invite is typically updated on the date of the session. So, please checkback on the session date. If you find any issues, please raise them or follow latest updates on the `#gostudygroup-india` Gophers slack channel.
+----
 
 # Upcoming: Session 10 -- 07th Mar 2019 - 20:30 IST
 
