@@ -1,31 +1,7 @@
 # We've moved to Meetup.com
 ## [`https://www.meetup.com/Go-Study-Group-India/`](https://www.meetup.com/Go-Study-Group-India/)
 We are phasing out managing GSGI using the repo here. Future events will be managed on `Meetup.com`.
-Content from all past sessions will still be available here.
-
-----
-
-# Upcoming: Session 10 -- 07th Mar 2019 - 20:30 IST
-
-**Video:** TBD
-
-**Agenda:**
-
-1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/19)\] Beginner: Talk: Introduction to WASM & its support in Go - by [Gaurav Agarwal](https://algogrit.com)
-
-# Past Sessions
-
-## Session 9 - Date: 21st Feb 2019 - 20:30 IST
-
-**Video:** [here](https://youtu.be/rRZy7ow6hcs)
-
-**Agenda:**
-
-### Go Runtime - Session 2
-
-1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/18)\] This talk provides a visual guide to Go's memory allocator. Session by [Ankur Anand](https://ankuranand.com)
-
-**All past sessions are available [here](PAST_SESSIONS.md)**
+**Content and Video links from all sessions will be available [here](PAST_SESSIONS.md).**
 
 ----
 
@@ -62,15 +38,16 @@ If you are interested in learning about something in Golang, you can also submit
 The [Proposals](PROPOSALS.md) page also has information on how to submit RFPs.
 
 ## Volunteering & Sponsorship
-* If you'd like to **[volunteer](volunteers.md)** or engage with existing volunteers who run StudyGroup-India on any aspect that generally concerns the StudyGroup, 
-* We are looking for **[sponsors](sponsors.md)** to join us to have better community reach and impact.
+If you'd like to **[volunteer](volunteers.md)** or engage with existing volunteers who run StudyGroup-India on any aspect that generally concerns the StudyGroup, 
 
 ### Our sponsors
 * Zoom premium account - [Go-jek](https://www.gojek.io/)
-* Feb 41st [Meetup](https://www.meetup.com/Golang-Bangalore/events/258671999/) Goodies - [Hotstar](https://tech.hotstar.com/)
+* Meetup Pro Account - [Gopher Source](https://gophersource.com)
+
+On Meetup.com, we are called Go Study Group India (GSGI). GSGI is now part of [Go Developer Network (GDN)](https://blog.golang.org/go-developer-network)
 
 ### Questions, Feedback & Suggestions
-please consider submitting an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) using the template `Questions, Feedback & Suggestions`, if you've any questsions, feedback or suggestions.
+Please consider submitting an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) using the template `Questions, Feedback & Suggestions`, if you've any questsions, feedback or suggestions.
 
 You can find an official list of maintainers in the [MAINTAINERS](MAINTAINERS) file, in case you wish to tag them in your communication. Please ensure that all your communication in this regard stays within the StudyGroup issue.
 
