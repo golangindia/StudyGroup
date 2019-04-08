@@ -1,14 +1,31 @@
 # Past Sessions
 
+
+## Session 11 - Date: 28th Mar 2019 - 20:30 IST
+
+**Video:** [here](https://youtu.be/w9a_SK4NRbA)
+
+**Agenda:**
+
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/20)\] Go Runtime - Part 3. Session by [Dinesh Kumar](https://github.com/devdinu)
+
+
+## Session 10 - Date: 07th Mar 2019 - 20:30 IST
+
+**Video:** [here](https://youtu.be/hVeGlxAooIU)
+
+**Agenda:**
+
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/19)\] Beginner: Talk: Introduction to WASM & its support in Go.  Session by [Gaurav Agarwal](https://algogrit.com)
+
+
 ## Session 9 - Date: 21st Feb 2019 - 20:30 IST
 
 **Video:** [here](https://youtu.be/rRZy7ow6hcs)
 
 **Agenda:**
 
-### Go Runtime - Session 2
-
-1. \[Proposal\](https://github.com/golangindia/StudyGroup/issues/18) This talk provides a visual guide to Go's memory allocator. Session by [Ankur Anand](https://ankuranand.com)
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/18)\] Go Runtime - Part 2: This talk provides a visual guide to Go's memory allocator. Session by [Ankur Anand](https://ankuranand.com)
 
 
 ## Session 8 - Date: 24th Jan 2019 - 20:30 IST
@@ -17,9 +34,7 @@
 
 **Agenda:**
 
-### Go Runtime - Session 1
-
-We'll discuss basics of go runtime, This is the beginning of multi part series, we will be exploring in depth, code, and other parts than basics in later sessions by [Dinesh](https://github.com/devdinu)
+Go Runtime - Part 1: We'll discuss basics of go runtime, This is the beginning of multi part series, we will be exploring in depth, code, and other parts than basics in later sessions by [Dinesh](https://github.com/devdinu)
 
 ## Session 7 - Date: 03rd Jan 2019 - 20:30 IST
 
