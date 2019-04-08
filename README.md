@@ -1,7 +1,8 @@
 # We've moved to Meetup.com
 ## [`https://www.meetup.com/Go-Study-Group-India/`](https://www.meetup.com/Go-Study-Group-India/)
-We are phasing out managing GSGI using the repo here. Future events will be managed on `Meetup.com`.
-**Content and Video links from all sessions will be available [here](PAST_SESSIONS.md).**
+We are phasing out managing GSGI using the repo here. Future events will be managed on `Meetup.com`. **Content from past sessions will be available [here](PAST_SESSIONS.md).**
+
+#### GSGI Youtube Playlist: [`https://bit.ly/gsgivids`](https://bit.ly/gsgivids)
 
 ----
 
