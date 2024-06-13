@@ -1,12 +1,4 @@
-# We've moved to Meetup.com
-## [`https://www.meetup.com/Go-Study-Group-India/`](https://www.meetup.com/Go-Study-Group-India/)
-We are phasing out managing GSGI using the repo here. Future events will be managed on `Meetup.com`. **Content from past sessions will be available [here](PAST_SESSIONS.md).**
-
-#### GSGI Youtube Playlist: [`https://bit.ly/gsgivids`](https://bit.ly/gsgivids)
-
-----
-
-# The GolangIndia StudyGroup
+# The Golang India Study Group
 
 A StudyGroup is a web-conference session where Gophers (members of the Go community) can discuss, learn and present content. The aim of the web-based session is to allow pan-geographic participation, while also allowing for more cohesive discussions around the presented content.
 
@@ -15,6 +7,12 @@ With the aim of wider participation from members in India, the StudyGroup's sche
 The language for communication will be English.
 
 Session videos from the GolangIndia StudyGroup are available [here](https://www.youtube.com/channel/UCJ3tfDfrAZYtuIclbgETFyQ).
+
+~~We've moved to Meetup.com~~
+~~## [`https://www.meetup.com/Go-Study-Group-India/`](https://www.meetup.com/Go-Study-Group-India/)~~
+~~We are phasing out managing GSGI using the repo here. Future events will be managed on `Meetup.com`. **Content from past sessions will be available [here](PAST_SESSIONS.md).**~~
+
+## GSGI Youtube Playlist: [`https://bit.ly/gsgivids`](https://bit.ly/gsgivids)
 
 ## Code of Conduct
 
@@ -39,7 +37,7 @@ If you are interested in learning about something in Golang, you can also submit
 The [Proposals](PROPOSALS.md) page also has information on how to submit RFPs.
 
 ## Volunteering & Sponsorship
-If you'd like to **[volunteer](volunteers.md)** or engage with existing volunteers who run StudyGroup-India on any aspect that generally concerns the StudyGroup, 
+If you'd like to **[volunteer](volunteers.md)** or engage with existing volunteers who run StudyGroup-India on any aspect that generally concerns the StudyGroup,
 
 ### Our sponsors
 * Zoom premium account - [Go-jek](https://www.gojek.io/)
