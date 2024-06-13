@@ -16,7 +16,6 @@ Session videos from the GolangIndia StudyGroup are available [here](https://www.
 ~~## [`https://www.meetup.com/Go-Study-Group-India/`](https://www.meetup.com/Go-Study-Group-India/)~~
 ~~We are phasing out managing GSGI using the repo here. Future events will be managed on `Meetup.com`.~~
 
-
 ## GSGI Youtube Playlist: [`https://bit.ly/gsgivids`](https://bit.ly/gsgivids)
 
 ## Code of Conduct
@@ -42,15 +41,18 @@ If you are interested in learning about something in Golang, you can also submit
 The [Proposals](PROPOSALS.md) page also has information on how to submit RFPs.
 
 ## Volunteering & Sponsorship
+
 If you'd like to **[volunteer](volunteers.md)** or engage with existing volunteers who run StudyGroup-India on any aspect that generally concerns the StudyGroup,
 
 ### Our sponsors
+
 * Zoom premium account - [Go-jek](https://www.gojek.io/)
 * Meetup Pro Account - [Gopher Source](https://gophersource.com)
 
 On Meetup.com, we are called Go Study Group India (GSGI). GSGI is now part of [Go Developer Network (GDN)](https://blog.golang.org/go-developer-network)
 
 ### Questions, Feedback & Suggestions
+
 Please consider submitting an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) using the template `Questions, Feedback & Suggestions`, if you've any questsions, feedback or suggestions.
 
 You can find an official list of maintainers in the [MAINTAINERS](MAINTAINERS) file, in case you wish to tag them in your communication. Please ensure that all your communication in this regard stays within the StudyGroup issue.
@@ -63,7 +65,7 @@ The GolangIndia StudyGroup has been inspired by the [`Go Study Group`](https://g
 
 ## Follow us on ...
 
-Gophers Slack: Channels `#gostudygroup-india` and `#gostudygroup` (North America)
+Gophers Slack: Channels `#gostudygroup-india`
 
 [`GolangIndia StudyGroup on Youtube`](https://www.youtube.com/channel/UCJ3tfDfrAZYtuIclbgETFyQ)
 

@@ -29,6 +29,7 @@ To submit a proposal, open an [issue](https://github.com/golangindia/StudyGroup/
 ### Title
 
 The title of the proposal must follow the format:
+
 ```
 Proposal: <Level>: <Format>: <YourTitle>
 
@@ -36,7 +37,7 @@ Example:
 Proposal: Intermediate: Talk: Ways to do RPC in Golang
 ```
 
-# Request for Proposal
+## Request for Proposal
 
 The Request for Proposal (RFP) is a system where you, as a participant can express interest in learning any aspect of Golang, or something from its ecosystem.
 
@@ -44,16 +45,6 @@ By floating your RFP in the community, you may find like-minded individuals who 
 
 As a community, we hope to find individuals who have expertise in the RFP topics, who may make a proposal to address your request.
 
-## How to submit a Request for Proposal (RFP)
+### How to submit a Request for Proposal (RFP)
 
 To submit a RFP, open an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) and choose `StudyGroup - Request for Proposal` as the template. The template also explains the details that you must fill in.
-
-### Title
-
-The title of the RFP must follow the format:
-```
-RFP: <Level>: <Format>: <YourTitle>
-
-Example:
-RFP: Intermediate: Any: Interested in a deepdive on how `sync.RWMutex` works
-```
