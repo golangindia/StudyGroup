@@ -1,5 +1,7 @@
 # The Golang India Study Group
 
+**[Upcoming Sessions](UPCOMING_SESSIONS.md).**
+
 A StudyGroup is a web-conference session where Gophers (members of the Go community) can discuss, learn and present content. The aim of the web-based session is to allow pan-geographic participation, while also allowing for more cohesive discussions around the presented content.
 
 With the aim of wider participation from members in India, the StudyGroup's schedule specifically caters to timeslots chosen on [IST](https://en.wikipedia.org/wiki/Indian_Standard_Time). However, all sessions of the StudyGroup are open to participation by anyone worldwide.
@@ -8,9 +10,12 @@ The language for communication will be English.
 
 Session videos from the GolangIndia StudyGroup are available [here](https://www.youtube.com/channel/UCJ3tfDfrAZYtuIclbgETFyQ).
 
+**Content from past sessions will be available [here](PAST_SESSIONS.md).**
+
 ~~We've moved to Meetup.com~~
 ~~## [`https://www.meetup.com/Go-Study-Group-India/`](https://www.meetup.com/Go-Study-Group-India/)~~
-~~We are phasing out managing GSGI using the repo here. Future events will be managed on `Meetup.com`. **Content from past sessions will be available [here](PAST_SESSIONS.md).**~~
+~~We are phasing out managing GSGI using the repo here. Future events will be managed on `Meetup.com`.~~
+
 
 ## GSGI Youtube Playlist: [`https://bit.ly/gsgivids`](https://bit.ly/gsgivids)
 
