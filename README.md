@@ -53,7 +53,7 @@ On Meetup.com, we are called Go Study Group India (GSGI). GSGI is now part of [G
 
 ### Questions, Feedback & Suggestions
 
-Please consider submitting an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) using the template `Questions, Feedback & Suggestions`, if you've any questsions, feedback or suggestions.
+Please consider submitting an [issue](https://github.com/golangindia/StudyGroup/issues/new/choose) using the template `Questions, Feedback & Suggestions`, if you've any questions, feedback or suggestions.
 
 You can find an official list of maintainers in the [MAINTAINERS](MAINTAINERS) file, in case you wish to tag them in your communication. Please ensure that all your communication in this regard stays within the StudyGroup issue.
 
