@@ -1,6 +1,6 @@
 # The Golang India Study Group
 
-**[Upcoming Sessions](UPCOMING_SESSIONS.md).**
+**[Upcoming Sessions](UPCOMING_SESSIONS.md)**
 
 A StudyGroup is a web-conference session where Gophers (members of the Go community) can discuss, learn and present content. The aim of the web-based session is to allow pan-geographic participation, while also allowing for more cohesive discussions around the presented content.
 
