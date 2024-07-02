@@ -8,4 +8,6 @@
 
 1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/23)\]Demo + Discussion: eBPF & Go [Gaurav Agarwal](https://github.com/algogrit)
 
+  Video call link: https://meet.google.com/cgn-judt-dvc
+
 ---
