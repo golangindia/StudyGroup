@@ -2,7 +2,7 @@
 
 ---
 
-## Session 13 - Date: 4th July 2024 - 20:30 IST
+## Session 13 - Date: 11th July 2024 - 20:30 IST
 
 **Agenda:**
 
