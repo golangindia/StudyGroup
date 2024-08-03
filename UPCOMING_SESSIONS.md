@@ -2,7 +2,7 @@
 
 ---
 
-## Session 13 - Date: 8th August 2024 - 20:30 IST
+## Session 13 - Date: 8th August 2024 - 20:00 PM IST
 
 **Agenda:**
 
