@@ -1,5 +1,17 @@
 # Past Sessions
 
+---
+
+## Session 13 - Date: 8th August 2024 - 20:00 PM IST
+
+**Video:** [here](https://youtu.be/p4VGg93OYTI)
+
+**Agenda:**
+
+1. \[[Proposal](https://github.com/golangindia/StudyGroup/issues/23)\]Demo + Discussion: eBPF & Go [Gaurav Agarwal](https://github.com/algogrit)
+
+---
+
 ## Session 12 - Date: 13th June 2024 - 20:30 IST
 
 **Agenda:**
